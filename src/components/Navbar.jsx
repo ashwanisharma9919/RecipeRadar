@@ -6,7 +6,7 @@ const Navbar = () => {
     <nav>
       <div id='logo'>
         <img src="/diet.png" alt="logo" width={50} />
-      <h2>Recipe Finder App</h2>
+      <h2>Recipe-Radar</h2>
       </div>
       <Link to={"/"}>
 
